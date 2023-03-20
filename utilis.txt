@@ -1,1 +1,1 @@
-This is utility function of my software "version2"
+This is utility function of my software in git 2 "version2"
